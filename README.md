@@ -76,7 +76,7 @@ impl ShahjahanArif {
 <br/>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shajandevz&theme=transparent&hide_border=true&stroke=00FFF7&ring=7B2FFE&fire=00FFF7&currStreakLabel=00FFF7&sideLabels=7B2FFE&currStreakNum=ffffff&sideNums=ffffff&dates=555555" width="100%" />
+<img src="https://streak-stats.demolab.com/?user=shajandevz&theme=transparent&hide_border=true&background=0d1117&stroke=00FFF7&ring=7B2FFE&fire=00FFF7&currStreakLabel=00FFF7&sideLabels=7B2FFE&currStreakNum=ffffff&sideNums=ffffff&dates=555555" width="100%" />
 </div>
 
 </td>
@@ -482,16 +482,16 @@ Cloud-based ISP & MikroTik router management platform. Router monitoring, subscr
 
 <p align="center">
   <a href="https://github.com/shajandevz">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shajandevz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FFF7&icon_color=7B2FFE&text_color=c9d1d9&ring_color=7B2FFE" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shajandevz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=00FFF7&icon_color=7B2FFE&text_color=c9d1d9" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/shajandevz">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shajandevz&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00FFF7&text_color=c9d1d9" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shajandevz&layout=compact&langs_count=8&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=00FFF7&text_color=c9d1d9" alt="Top Languages" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/shajandevz">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shajandevz&theme=transparent&hide_border=true&background=0d1117&stroke=00FFF7&ring=7B2FFE&fire=00FFF7&currStreakLabel=00FFF7&sideLabels=7B2FFE&currStreakNum=ffffff&sideNums=ffffff&dates=555555" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=shajandevz&theme=dark&hide_border=true&background=0d1117&stroke=00FFF7&ring=7B2FFE&fire=00FFF7&currStreakLabel=00FFF7&sideLabels=7B2FFE&currStreakNum=ffffff&sideNums=ffffff&dates=555555" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -504,7 +504,7 @@ Cloud-based ISP & MikroTik router management platform. Router monitoring, subscr
 
 <p align="center">
   <a href="https://github.com/shajandevz">
-    <img src="https://github-profile-trophy.vercel.app/?username=shajandevz&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
+    <img src="https://github-trophies.vercel.app/?username=shajandevz&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
   </a>
 </p>
 
@@ -520,19 +520,6 @@ Cloud-based ISP & MikroTik router management platform. Router monitoring, subscr
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=shajandevz&bg_color=0d1117&color=00FFF7&line=7B2FFE&point=00FFF7&area=true&area_color=7B2FFE&hide_border=true&custom_title=Shahjahan's%20Contribution%20Graph" alt="Activity Graph" />
   </a>
 </p>
-
----
-
-<!-- Snake Animation -->
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shajandevz/shajandevz/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shajandevz/shajandevz/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/shajandevz/shajandevz/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
 
 ---
 
