@@ -26,7 +26,7 @@
 <!-- About Me Section -->
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="wave" width="28" /> **Hey there! I'm Shahjahan Arif**
 
-> 🇵🇰 Full Stack Engineer & Blockchain Developer from Pakistan with **5+ years** of building production-grade web apps and **4+ years** crafting on-chain programs on **Solana**. Currently leading engineering at **[PaytoHash](https://github.com/shajandevz)** — building decentralized payment infrastructure for the future.
+> 🇵🇰 Full Stack Engineer & Blockchain Developer from Pakistan with **5+ years** of building production-grade web apps and crafting on-chain programs on **Solana**. Currently leading engineering at **[PaytoHash](https://github.com/shajandevz)** — building decentralized payment infrastructure for the future.
 
 <br/>
 
